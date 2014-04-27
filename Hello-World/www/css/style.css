@@ -1,0 +1,23 @@
+body {
+  padding-top: 50px;
+}
+
+.starter-template {
+  padding: 40px 0px 0px 0px;  
+}
+
+.navbar-header{
+	text-align: center;
+	display: inline-block;	
+	float: none;
+}
+
+textarea{
+	resize: none;
+}
+
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+	cursor: not-allowed;
+	background-color: white;
+	opacity: 1;
+}
