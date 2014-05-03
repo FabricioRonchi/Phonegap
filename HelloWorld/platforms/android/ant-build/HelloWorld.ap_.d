@@ -25,9 +25,12 @@ C:\Users\Desenvolvimento\Projetos\Phonegap\HelloWorld\platforms\android\assets\w
 C:\Users\Desenvolvimento\Projetos\Phonegap\HelloWorld\platforms\android\assets\www\res \
 C:\Users\Desenvolvimento\Projetos\Phonegap\HelloWorld\platforms\android\assets\www\spec \
 C:\Users\Desenvolvimento\Projetos\Phonegap\HelloWorld\platforms\android\assets\www\spec.html \
-C:\Users\Desenvolvimento\Projetos\Phonegap\HelloWorld\platforms\android\assets\www\css\index.css \
+C:\Users\Desenvolvimento\Projetos\Phonegap\HelloWorld\platforms\android\assets\www\css\bootstrap.min.css \
+C:\Users\Desenvolvimento\Projetos\Phonegap\HelloWorld\platforms\android\assets\www\css\style.css \
 C:\Users\Desenvolvimento\Projetos\Phonegap\HelloWorld\platforms\android\assets\www\img\logo.png \
-C:\Users\Desenvolvimento\Projetos\Phonegap\HelloWorld\platforms\android\assets\www\js\index.js \
+C:\Users\Desenvolvimento\Projetos\Phonegap\HelloWorld\platforms\android\assets\www\js\app.js \
+C:\Users\Desenvolvimento\Projetos\Phonegap\HelloWorld\platforms\android\assets\www\js\bootstrap.min.js \
+C:\Users\Desenvolvimento\Projetos\Phonegap\HelloWorld\platforms\android\assets\www\js\jquery.min.js \
 C:\Users\Desenvolvimento\Projetos\Phonegap\HelloWorld\platforms\android\assets\www\res\icon \
 C:\Users\Desenvolvimento\Projetos\Phonegap\HelloWorld\platforms\android\assets\www\res\screen \
 C:\Users\Desenvolvimento\Projetos\Phonegap\HelloWorld\platforms\android\assets\www\res\icon\android \
